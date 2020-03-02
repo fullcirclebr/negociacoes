@@ -1,5 +1,7 @@
 # Negotiations
 
+Todo o código da Master foi movido para client
+
 Object Oriented and Design Patterned JavaScript ES2015+ and Node.JS Stock Negotiations Project. It uses Express.JS as server side framework.
 
 ## Install
